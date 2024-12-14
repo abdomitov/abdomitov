@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Xasanbek Abdomitov**, a passionate software developer exploring the world of Python 🐍 and new technologies 🚀.  
 
-<!--
-**abdomitov/abdomitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a **100-day Python coding challenge** 📆.  
+- 🌱 I’m learning Python every day and sharing my journey here.  
+- 👯 I’m looking to collaborate on Python projects and open-source contributions.  
+- 💬 Ask me about Python, programming challenges, or anything tech-related!  
+- 📫 How to reach me:  
+  - [Telegram](https://t.me/abdomitov_bek)  
+  - [Instagram](https://www.instagram.com/abdomitov_bek)  
+  - [LinkedIn](https://www.linkedin.com/in/xasanbek-abdomitov/)  
+  - 📧 abdomitovbek@gmail.com  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I love taking on challenges that push me to grow every day! 💡  
