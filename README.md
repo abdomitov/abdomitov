@@ -1,2 +1,2 @@
 ## Hi there 👋  
-I'm **Xasanbek Abdomitov**f
+I'm **Xasanbek Abdomitov**
