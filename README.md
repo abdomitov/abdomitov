@@ -1,63 +1,44 @@
 # Hi, I'm Xasan 👋
 
-**System Administrator → DevOps Engineer** · Tashkent, Uzbekistan 🇺🇿
+**System Administrator · Infrastructure & Automation** · Tashkent, Uzbekistan 🇺🇿
 
-I run on-prem infrastructure day-to-day — VMware vSphere, Linux & Windows servers, Active Directory, Docker and Kubernetes — and I'm now building a public portfolio that takes a real application from a container all the way to production, on-prem and in the cloud.
-
----
+I work with on-premises infrastructure: VMware virtualization, Linux and Windows
+servers, Active Directory, containers and Kubernetes. I also build practical
+tools for infrastructure tasks and maintain open-source projects with automated
+tests, CI and packaged releases.
 
 ### 🛠️ What I work with
 
-**Virtualization & OS**
-VMware vSphere / vCenter · Ubuntu Server · Windows Server · Active Directory · GPO
+| Area | Tools and experience |
+| --- | --- |
+| Virtualization | VMware vSphere, ESXi and vCenter |
+| Systems administration | Ubuntu Server, Windows Server, Active Directory and Group Policy |
+| Containers and Kubernetes | Docker, Docker Compose, private registries, kubeadm, kube-vip and Helm |
+| Automation and development | Python, PowerShell, Bash and Git |
+| Testing and delivery | Automated regression tests, GitHub Actions, Windows installer packaging and GitHub Releases |
+| Networking and access | VLAN segmentation, firewalls, SSH keys and certificate-based access |
 
-**Containers & Orchestration**
-Docker · Docker Compose · Private Docker Registry · Kubernetes (HA control plane with kube-vip)
+### 🔧 Projects and practical work
 
-**Networking & Security**
-Office networking · VLAN segmentation · SSH key / certificate access · Firewalls
+**[OVA Exporter GUI](https://github.com/abdomitov/ova-exporter-gui)**  
+A Windows desktop interface for VMware OVF Tool, with VM selection, export queues,
+progress and speed graphs, manifest checksum verification, and app update prompts.
+The project includes Python/Tkinter code, automated tests, GitHub Actions and a
+Windows installer. It is an independent community project.
 
-**Currently learning**
-GitHub Actions · Ansible · Terraform · Helm · ArgoCD · Prometheus & Grafana · AWS
+**[VMware and Kubernetes homelab](https://github.com/abdomitov/homelab-infra)**  
+A kubeadm cluster on VMware vSphere with three control-plane nodes, one worker
+and a kube-vip virtual IP for the Kubernetes API. Includes Helm deployment notes,
+cluster configuration and a documented control-plane failover test.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,kubernetes,bash,git,github,githubactions,ansible,terraform,aws,prometheus,grafana&perline=14" />
-</p>
-
----
-
-### 🏗️ My homelab
-
-| Component | Setup |
-|---|---|
-| Hypervisor | VMware vSphere / vCenter |
-| Kubernetes | 3 control-plane nodes + kube-vip (HA API) + 1 worker |
-| Registry | Self-hosted private Docker registry with authentication |
-| Workstation | Dedicated Ubuntu `devbox` VM, managed via VS Code Remote-SSH |
-
-📂 Full documentation → [homelab](https://github.com/abdomitov/homelab)
-
----
-
-### 🚀 DevOps Portfolio Roadmap
-
-One real application (a Telegram bot) carried through every stage of a modern delivery pipeline:
-
-- [x] **Phase 0** — GitHub & dev workstation setup
-- [ ] **Phase 1** — Linux automation with Bash
-- [ ] **Phase 2** — Containerization with Docker
-- [ ] **Phase 3** — CI/CD with GitHub Actions
-- [ ] **Phase 4** — Infrastructure as Code (Ansible + Terraform on vSphere)
-- [ ] **Phase 5** — Kubernetes deployment with Helm & GitOps (ArgoCD)
-- [ ] **Phase 6** — Monitoring & alerting (Prometheus, Grafana, Loki)
-- [ ] **Phase 7** — Cloud deployment on AWS with Terraform
-
----
+**[vCenter monitoring on Kubernetes](https://github.com/abdomitov/vcenter-monitoring)**  
+Kubernetes manifests for Zabbix and PostgreSQL, with VMware collector configuration
+and service and ingress definitions.
 
 ### 📫 Contact
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/xasanbek-abdomitov/](https://linkedin.com/in/xasanbek-abdomitov/)
-- 📧 Email: abdomitovbek@gmail.com
-- 💬 Telegram: [@abdomitov_bek](https://t.me/abdomitov_bek)
+- [LinkedIn](https://www.linkedin.com/in/xasanbek-abdomitov/)
+- Email: [abdomitovbek@gmail.com](mailto:abdomitovbek@gmail.com)
+- Telegram: [@abdomitov_bek](https://t.me/abdomitov_bek)
 
-<sub>⭐ Open to DevOps / Platform / SRE opportunities — remote or in Tashkent.</sub>
+<sub>Open to DevOps, Platform and SRE opportunities — remote or in Tashkent.</sub>
