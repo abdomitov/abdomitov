@@ -13,10 +13,16 @@ tests, CI and packaged releases.
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,kubernetes,py,powershell,bash,git,github,githubactions&amp;theme=light&amp;perline=11" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,kubernetes,py,powershell,bash,git,github,githubactions&amp;theme=dark&amp;perline=11" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux%2Cubuntu%2Cwindows%2Cdocker%2Ckubernetes%2Cpy%2Cpowershell%2Cbash%2Cgit%2Cgithub%2Cgithubactions&amp;theme=light&amp;perline=11" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cubuntu%2Cwindows%2Cdocker%2Ckubernetes%2Cpy%2Cpowershell%2Cbash%2Cgit%2Cgithub%2Cgithubactions&amp;theme=dark&amp;perline=11" />
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,kubernetes,py,powershell,bash,git,github,githubactions&amp;theme=dark&amp;perline=11" alt="Linux, Ubuntu, Windows, Docker, Kubernetes, Python, PowerShell, Bash, Git, GitHub and GitHub Actions" />
   </picture>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VMware-vSphere-607078?style=for-the-badge" alt="VMware vSphere" />
+  <img src="https://img.shields.io/badge/VMware-ESXi-167C80?style=for-the-badge" alt="VMware ESXi" />
+  <img src="https://img.shields.io/badge/VMware-vCenter-087F8C?style=for-the-badge" alt="VMware vCenter" />
 </p>
 
 | Area | Tools and experience |
