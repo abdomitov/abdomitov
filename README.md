@@ -7,7 +7,17 @@ servers, Active Directory, containers and Kubernetes. I also build practical
 tools for infrastructure tasks and maintain open-source projects with automated
 tests, CI and packaged releases.
 
+---
+
 ### 🛠️ What I work with
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,kubernetes,py,powershell,bash,git,github,githubactions&amp;theme=light&amp;perline=11" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,kubernetes,py,powershell,bash,git,github,githubactions&amp;theme=dark&amp;perline=11" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,kubernetes,py,powershell,bash,git,github,githubactions&amp;theme=dark&amp;perline=11" alt="Linux, Ubuntu, Windows, Docker, Kubernetes, Python, PowerShell, Bash, Git, GitHub and GitHub Actions" />
+  </picture>
+</p>
 
 | Area | Tools and experience |
 | --- | --- |
@@ -17,6 +27,8 @@ tests, CI and packaged releases.
 | Automation and development | Python, PowerShell, Bash and Git |
 | Testing and delivery | Automated regression tests, GitHub Actions, Windows installer packaging and GitHub Releases |
 | Networking and access | VLAN segmentation, firewalls, SSH keys and certificate-based access |
+
+---
 
 ### 🔧 Projects and practical work
 
@@ -34,6 +46,8 @@ cluster configuration and a documented control-plane failover test.
 **[vCenter monitoring on Kubernetes](https://github.com/abdomitov/vcenter-monitoring)**  
 Kubernetes manifests for Zabbix and PostgreSQL, with VMware collector configuration
 and service and ingress definitions.
+
+---
 
 ### 📫 Contact
 
